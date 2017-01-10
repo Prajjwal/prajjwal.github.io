@@ -197,10 +197,10 @@ messages, or have full internet access.
 
 ## IM
 
-Most of my conversation happens with a tiny group(< 5) of friend. I've therefore
-moved them to public XMPP servers, and we now use open source clients with end
-to end encryption to chat. Outside this group, I use whatever the other person
-is using. I might do a future post detailing my setup.
+Most of my conversation happens with a tiny group(< 5) of friends. I've
+therefore moved them to public XMPP servers, and we now use open source clients
+with end to end encryption to chat. Outside this group, I use whatever the other
+person is using. I might do a future post detailing my setup.
 
 ### Clients
 
