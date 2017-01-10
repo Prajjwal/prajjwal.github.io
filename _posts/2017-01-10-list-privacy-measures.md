@@ -116,8 +116,9 @@ choice](http://robert.ocallahan.org/2014/08/choose-firefox-now-or-later-you-wont
 
 - [uBlock
 Origin](https://addons.mozilla.org/en-US/firefox/addon/ublock-origin/): Lean ad
-blocker that does its job without making your browser [dog slow](), or [selling
-your browsing history]().
+blocker that does its job without making your browser [dog
+slow](https://github.com/gorhill/uBlock#performance), or [selling your browsing
+history](https://www.wired.com/2016/03/heres-how-that-adblocker-youre-using-makes-money/).
 - [Self Destructing
 Cookies](https://addons.mozilla.org/en-US/firefox/addon/self-destructing-cookies/):
 Removes cookies once you close a particular tab, thus greatly reducing the
@@ -197,8 +198,11 @@ better than using their [security nightmare of an
 app](http://www.independent.co.uk/life-style/gadgets-and-tech/facebook-can-work-out-what-youre-watching-by-listening-through-your-smartphone-9444353.html).
 Firefox also allows you to pin certain pages to your home screen, so you can
 launch them as you would an app.
-- Consider using a third party keyboard app, such as [SwiftKey](), and
-completely block its access to the internet.
+- Consider using a third party keyboard app, such as
+[SwiftKey](https://play.google.com/store/apps/details?id=com.touchtype.swiftkey)
+or [Hacker's
+Keyboard](https://play.google.com/store/apps/details?id=org.pocketworkstation.pckeyboard),
+and completely block its access to the internet.
 - Carefully go through app permissions on your device, and block anything that
 the app doesn't need. Most apps don't need to access your contacts, read your
 messages, or have full internet access.
