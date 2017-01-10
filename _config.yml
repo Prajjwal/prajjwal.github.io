@@ -1,0 +1,17 @@
+title: Prajjwal Singh
+email: sin@prajjwal.com
+description: >
+  Personal home page of Prajjwal Singh.
+baseurl: ""
+url: "https://prajjwal.com"
+twitter_username: prajjwalsin
+github_username:  Prajjwal
+google_analytics: UA-22978838-1
+
+markdown: kramdown
+theme: minima
+gems:
+  - jekyll-feed
+exclude:
+  - Gemfile
+  - Gemfile.lock
