@@ -132,6 +132,8 @@ Also, follow [this excellent guide](https://www.privacytools.io/#about_config)
 to tweaking Firefox settings for maximum privacy. I don't personally have all of
 this disabled, notably WebGL.
 
+Disable WebRTC by setting `media.peerconnection.enabled` to false. Don't do it
+if you use communication apps that use WebRTC.
 
 ## File Sharing / Backup
 
