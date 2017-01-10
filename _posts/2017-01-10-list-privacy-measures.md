@@ -7,12 +7,11 @@ title: A List of Privacy Measures
 
 This aims to document everything I use to maintain a degree of privacy in my
 digital life, along with a few comments. It is targeted at intermediate Linux
-users who can get everything setup without any hand holding. I won't write
-tutorials on how to use any of this, but I might link to them to provide a
-starting point.
+users who can get everything setup without any hand holding. I had wanted to
+write tutorials on what follows, but that would make the post unbearably long.
+Instead, I shall try to link to pages that are good starting points.
 
-I intend to constantly update this. `CTRL + D` creates a bookmark in most
-browsers.
+I intend to constantly update this, so it might be a good page to bookmark.
 
 ## Goals
 
@@ -150,7 +149,7 @@ It's heavily sandboxed using `Firejail`.
 My one and only gripe with this program is that it isn't open source, which
 negates every claim of "zero knowledge" and "privacy" that they've made since
 its conception. Fortunately, the three directories that I do need constantly
-backed up in the cloud are actually `encfs` mounts. I've got a cron job to run
+backed up in the cloud are actually `EncFs` mounts. I've got a cron job to run
 `SpiderOakONE --batchmode` every three hours.
 
 ### file.io
