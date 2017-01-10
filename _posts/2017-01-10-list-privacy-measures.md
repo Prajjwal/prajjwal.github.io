@@ -5,7 +5,7 @@ title: A List of Privacy Measures
 
 ... that you can take without being labeled 'crackpot'.
 
-This aims to document everything I use to maintain a degree of privacy in my
+This aims to document everything I use to maintain a degree of privacy in **my**
 digital life, along with a few comments. It is targeted at intermediate Linux
 users who can get everything setup without any hand holding. I had wanted to
 write tutorials on what follows, but that would make the post unbearably long.
@@ -49,6 +49,9 @@ personally use Arch Linux.
 - [Elementary OS](http://elementary.io/)
 - [Ubuntu](http://ubuntu.com/)
 - [Arch Linux](https://www.archlinux.org/)
+- Reddit user
+[boarhog](https://www.reddit.com/r/linux/comments/5n6o0z/a_list_of_privacy_measures_you_can_take_without/dc97hrt/)
+likes [Fedora](https://getfedora.org/)
 
 You could also choose a flavor of BSD, and most of what follows would apply to
 you.
@@ -123,6 +126,11 @@ number of ad cookies plotting murder on your system.
 - [Remove Cookies for
 Site](https://addons.mozilla.org/en-US/firefox/addon/remove-cookies-for-site/):
 For when you want to take cookie murdering into your own hands.
+- [uMatrix](https://addons.mozilla.org/en-US/firefox/addon/umatrix/)
+
+Also, follow [this excellent guide](https://www.privacytools.io/#about_config)
+to tweaking Firefox settings for maximum privacy. I don't personally have all of
+this disabled, notably WebGL.
 
 
 ## File Sharing / Backup
@@ -242,6 +250,9 @@ syntax](https://duckduckgo.com/bang) will save you a lot of time.
 - Consider enabling [Do Not Track](https://en.wikipedia.org/wiki/Do_Not_Track).
 - Use [OpenNIC DNS servers](https://en.wikipedia.org/wiki/OpenNIC) instead of
 Google DNS.
+- Purchase WHOIS protection for your domain names(thanks
+    [rowty1](https://www.reddit.com/user/rowty1).
+- Use [KeePass](http://keepass.info/) for password management.
 
 ---
 
@@ -254,6 +265,8 @@ hide](https://www.wired.com/2013/06/why-i-have-nothing-to-hide-is-the-wrong-way-
 - [Security: Not a Binary
 State](https://systemoverlord.com/2014/09/05/security-not-a-binary-state/)
 - [EFF Secure Messaging Score Card](https://www.eff.org/node/82654)
+- [PrivacyTools](https://www.privacytools.io/)
+- [Prism Break](https://prism-break.org/en/)
 
 ---
 
