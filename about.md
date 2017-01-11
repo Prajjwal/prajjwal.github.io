@@ -15,6 +15,7 @@ Programmer. Vim Wielder. Arch Linux Snob. Guitar n00b.
 ([Comments](https://news.ycombinator.com/threads?id=prajjwal)),
 ([Submissions](https://news.ycombinator.com/submitted?id=prajjwal))
 * [StackExchange](http://stackexchange.com/users/267243/prajjwal)
+* [Reddit](https://www.reddit.com/user/parentheses-of-doom/)
 
 **Inactive**
 
