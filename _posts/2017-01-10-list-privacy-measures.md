@@ -165,8 +165,9 @@ backed up in the cloud are actually `EncFs` mounts. I've got a cron job to run
 
 ### file.io
 
-[file.io](http://file.io/) basically deletes your file after it is downloaded.
-I've got a small [shell script that uploads to
+[file.io](http://file.io/) deletes your file after it is downloaded once,
+eliminating the possibility that you'll leave something lying around on a remote
+server.  I've got a small [shell script that uploads to
 file.io](https://github.com/Prajjwal/dotfiles/blob/master/bin/fileio) which I
 use all the time. Consider encrypting manually with openssl before you upload
 here.
@@ -179,6 +180,9 @@ here.
   - Encrypting that sync.
 - [Borg Backup](https://github.com/borgbackup/borg) - deduplicating backup that
 also supports encryption.
+- [Syncthing](http://syncthing.net/) - Decentralized, P2P, completely encrypted,
+and open source. Best alternative to Dropbox, provided you can talk your friends
+into installing it.
 
 ## Android
 
@@ -242,6 +246,10 @@ following apps.
 - [Signal](https://play.google.com/store/apps/details?id=org.thoughtcrime.securesms)
 - [Threema](https://threema.ch/en/)
 - [Wire](https://wire.com/)
+- [Tox](https://tox.chat/) - a decentralized secure messenger, and arguably
+better from a privacy standpoint than the aforementioned apps. Not as
+straightforward to use for non-tech people, though. (via
+    [u/otakugrey](https://www.reddit.com/user/otakugrey))
 
 ## Email
 
@@ -254,10 +262,12 @@ it. Maybe someday.
 be more specific with your searches, but it's worth it. Their [bang
 syntax](https://duckduckgo.com/bang) will save you a lot of time.
 - Consider enabling [Do Not Track](https://en.wikipedia.org/wiki/Do_Not_Track).
+As a few people have rightly pointed out, DNT is next to useless - very few
+websites respect it. Nevertheless, doesn't hurt to turn it on.
 - Use [OpenNIC DNS servers](https://en.wikipedia.org/wiki/OpenNIC) instead of
 Google DNS.
 - Purchase WHOIS protection for your domain names(thanks
-    [rowty1](https://www.reddit.com/user/rowty1).
+    [rowty1](https://www.reddit.com/user/rowty1)).
 - Use [KeePass](http://keepass.info/) for password management.
 
 ---
@@ -279,7 +289,7 @@ State](https://systemoverlord.com/2014/09/05/security-not-a-binary-state/)
 ## Contributing
 
 Since this outlines **my** personal privacy setup, I won't be accepting any
-direct suggestions. If, however, I end up using something you showed me, I'll
-put it in here. I'll give credit where credit is due, of course.
+direct modifications. If, however, I end up using something you suggest, I'll be
+sure to put it in here. I'll give credit where credit is due, of course.
 
 Hit up [@prajjwalsin](http://prajjwal.com/@) on Twitter for any feedback.
