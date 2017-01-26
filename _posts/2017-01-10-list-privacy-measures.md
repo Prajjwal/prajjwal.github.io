@@ -192,10 +192,13 @@ that hardcore, then there are steps you can take to limit the amount of data
 Google gets.
 
 - Use [Firefox for
-Android](https://play.google.com/store/apps/details?id=org.mozilla.firefox) +
-[uBlock Origin](https://addons.mozilla.org/EN-US/android/addon/ublock-origin/).
+Android](https://play.google.com/store/apps/details?id=org.mozilla.firefox).
 Performs as well as Chrome(if not better) on a [budget
-phone](http://www.gsmarena.com/xiaomi_redmi_2_prime-7480.php).
+phone](http://www.gsmarena.com/xiaomi_redmi_2_prime-7480.php). Addons:
+  - [uBlock Origin](https://addons.mozilla.org/EN-US/android/addon/ublock-origin/)
+  - [HTTPS Everywhere](https://addons.mozilla.org/en-US/android/addon/https-everywhere/)
+  - [Self Destructing Cookies](https://addons.mozilla.org/en-US/android/addon/self-destructing-cookies/)
+  - [Decentraleyes](https://addons.mozilla.org/en-us/android/addon/decentraleyes/)
 - Limit the number of applications you install, prefer using their mobile web
 app. Using [m.facebook.com](https://m.facebook.com) in your browser is much
 better than using their [security nightmare of an
