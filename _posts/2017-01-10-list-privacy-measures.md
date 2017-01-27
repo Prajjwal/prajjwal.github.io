@@ -127,6 +127,8 @@ number of ad cookies plotting murder on your system.
 - [Remove Cookies for
 Site](https://addons.mozilla.org/en-US/firefox/addon/remove-cookies-for-site/):
 For when you want to take cookie murdering into your own hands.
+- [HTTPS
+Everywhere](https://addons.mozilla.org/en-US/firefox/addon/https-everywhere/)
 - [uMatrix](https://addons.mozilla.org/en-US/firefox/addon/umatrix/)
 
 Also, follow [this excellent guide](https://www.privacytools.io/#about_config)
