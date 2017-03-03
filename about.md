@@ -34,6 +34,7 @@ Music](https://www.facebook.com/prajjwalsin/music?lst=1785043593%3A1785043593%3A
   (**OMEMO Fingerprints**)
   * `01117D9F D1902204 DF2076BF AB9DDCAC 9764962A 31362737 68946000 635AF529`
   * `8139AD0A 081D0E62 6C89B0AF 2101B006 FCCB3C9C 3BEDD2AA 68EA826B F47FB411`
+* **Freenode IRC**: chalkmonster
 * **Google Hangouts**: sin@prajjwal.com
 * **PGP Key**:
 
