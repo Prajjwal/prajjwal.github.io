@@ -185,6 +185,8 @@ also supports encryption.
 - [Syncthing](http://syncthing.net/) - Decentralized, P2P, completely encrypted,
 and open source. Best alternative to Dropbox, provided you can talk your friends
 into installing it.
+- My [list of ephemeral file sharing
+sites](https://gist.github.com/Prajjwal/2226c6a96d1d72abc713e889160a9f81).
 
 ## Android
 
