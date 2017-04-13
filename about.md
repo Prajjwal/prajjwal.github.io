@@ -3,7 +3,7 @@ layout: default
 title: About
 ---
 
-Programmer. Vim Wielder. Arch Linux Snob. Guitar n00b.
+Programming and other cybershenanigans. Also CS and Mathematics.
 
 ## Elsewhere
 
