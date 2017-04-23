@@ -5,9 +5,16 @@
 
 body {
   font-family: "Georgia", "Droid Serif", serif;
-  font-size: 21px;
-  line-height: 1.6em;
+  font-size: 1.35rem;
+  line-height: 2.2rem;
   color: rgba(66, 61, 54, 1);
+}
+
+@media screen and (max-width: 800px) {
+  body {
+    font-size: 1.2rem;
+    line-height: 2rem;
+  }
 }
 
 code, pre {
@@ -15,11 +22,11 @@ code, pre {
 }
 
 .site-header {
-  font-size: 18px;
+  font-size: 1rem;
 }
 
 h1, h2, h3, h4, h5, h6 {
-  line-height: 1.8em;
+  line-height: 2.8rem;
   color: rgb(120, 39, 9);
 }
 
