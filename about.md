@@ -19,7 +19,7 @@ Programming and other cybershenanigans. Also CS and Mathematics.
 
 **Inactive**
 
-* [Google+](https://prajjwal.com/+)
+* [Google+](https://plus.google.com/u/0/+PrajjwalSingh0)
 * [Facebook](https://www.facebook.com/prajjwalsin): ([Liked
 Music](https://www.facebook.com/prajjwalsin/music?lst=1785043593%3A1785043593%3A1484096087))
 * [YouTube](https://www.youtube.com/channel/UCjiTqumggqaSBnP8nJ_2mmQ)
