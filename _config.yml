@@ -1,5 +1,6 @@
 title: Prajjwal Singh
 email: sin@prajjwal.com
+author: Prajjwal Singh
 description: >
   Personal home page of Prajjwal Singh.
 baseurl: ""
@@ -12,6 +13,8 @@ markdown: kramdown
 theme: minima
 gems:
   - jekyll-feed
+include:
+  - .well-known
 exclude:
   - Gemfile
   - Gemfile.lock
